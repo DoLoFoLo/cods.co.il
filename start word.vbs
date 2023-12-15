@@ -1,1 +1,1 @@
-CreateObject("sapi.spVoice").speak "こんにちは、みんな"
+CreateObject("sapi.spVoice").speak "fuk you beach maderfakers!"
