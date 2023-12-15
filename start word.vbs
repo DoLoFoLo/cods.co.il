@@ -1,0 +1,1 @@
+CreateObject("sapi.spVoice").speak "こんにちは、みんな"
